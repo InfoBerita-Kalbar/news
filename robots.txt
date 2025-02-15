@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /private-page/
 Allow: /
 
 Sitemap: https://infoberita-kalbar.github.io/news/sitemap.xml
