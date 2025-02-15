@@ -1,16 +1,15 @@
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  
-<url>
-<loc>https://infoberita-kalbar.github.io/news</loc>
-<lastmod>2025-02-15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-<url>
-<loc>https://infoberita-kalbar.github.io/news/berita-slot-2025.html</loc>
-<lastmod>2025-02-15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://infoberita-kalbar.github.io/news/</loc>
+    <lastmod>2025-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://infoberita-kalbar.github.io/news/berita-slot-2025.html</loc>
+    <lastmod>2025-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://infoberita-kalbar.github.io/news/Lagi-Asik-Makan-Bakso-Seorang-Pemuda-Diberikan-Uang-Kaget-pada-Game-Deadwood-R.I.P-di-NoLimit-City.html</loc>
+    <lastmod>2025-02-15</lastmod>
+  </url>
 </urlset>
